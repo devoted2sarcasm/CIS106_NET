@@ -1,0 +1,4 @@
+C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfoInputs.cache
+C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfo.cs
+C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.csproj.CoreCompileInputs.cache
