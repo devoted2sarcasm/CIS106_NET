@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj": {}
+    "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj": {
+    "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "C:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj",
+        "projectPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\greaz\\.nuget\\packages\\",
-        "outputPath": "C:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\obj\\",
+        "outputPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\greaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,1 @@
+Upload requirements are silly if we submit a github link.

@@ -12,3 +12,11 @@ c:\NCMC\CIS106dotNET\DotNetProjects\Numbers\obj\Debug\net8.0\refint\Numbers.dll
 c:\NCMC\CIS106dotNET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.pdb
 c:\NCMC\CIS106dotNET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
 c:\NCMC\CIS106dotNET\DotNetProjects\Numbers\obj\Debug\net8.0\ref\Numbers.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Numbers\obj\Debug\net8.0\Numbers.pdb

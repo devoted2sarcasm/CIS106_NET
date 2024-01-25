@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj": {}
+    "c:\\NCMC\\CIS106_NET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj": {}
   },
   "projects": {
-    "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj": {
+    "c:\\NCMC\\CIS106_NET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj",
+        "projectUniqueName": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj",
         "projectName": "CIS106WEEK1",
-        "projectPath": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj",
+        "projectPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\CIS106WEEK1\\CIS106WEEK1.csproj",
         "packagesPath": "C:\\Users\\greaz\\.nuget\\packages\\",
-        "outputPath": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\CIS106WEEK1\\obj\\",
+        "outputPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\CIS106WEEK1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\greaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

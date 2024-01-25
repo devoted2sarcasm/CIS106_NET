@@ -2,3 +2,8 @@ C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.Gen
 C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfoInputs.cache
 C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfo.cs
 C:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.csproj.CoreCompileInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.GeneratedMSBuildEditorConfig.editorconfig
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfoInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfo.cs
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.csproj.CoreCompileInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.sourcelink.json

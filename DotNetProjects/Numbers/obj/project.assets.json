@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\Numbers.csproj",
+      "projectPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\greaz\\.nuget\\packages\\",
-      "outputPath": "c:\\NCMC\\CIS106dotNET\\DotNetProjects\\Numbers\\obj\\",
+      "outputPath": "c:\\NCMC\\CIS106_NET\\DotNetProjects\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\greaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

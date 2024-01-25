@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CIS106WEEK1
-build_property.ProjectDir = c:\NCMC\CIS106dotNET\DotNetProjects\CIS106WEEK1\
+build_property.ProjectDir = C:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
