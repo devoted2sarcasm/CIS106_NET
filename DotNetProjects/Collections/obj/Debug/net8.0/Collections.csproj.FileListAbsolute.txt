@@ -1,0 +1,15 @@
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\bin\Debug\net8.0\Collections.exe
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\bin\Debug\net8.0\Collections.deps.json
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\bin\Debug\net8.0\Collections.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\bin\Debug\net8.0\Collections.pdb
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.sourcelink.json
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\refint\Collections.dll
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.pdb
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+c:\NCMC\CIS106_NET\DotNetProjects\Collections\obj\Debug\net8.0\ref\Collections.dll

@@ -9,19 +9,19 @@ namespace Games
         {
             BoardGame Catan = new BoardGame("The Settlers of Catan", false, 2, 4, 90, 8);
 
-            Console.WriteLine($"{Catan.Name} can be played by {Catan.MaybeMinPlayers()} to {Catan.MaybeMaxPlayers()} players, takes about {Catan.AvgPT} minutes to play, and rates as {Catan.Difficulty} out of 10 for difficulty level.");
+            Console.WriteLine($"{Catan.name} can be played by {Catan.maybeMinPlayers()} to {Catan.maybeMaxPlayers()} players, takes about {Catan.avgPT} minutes to play, and rates as {Catan.difficulty} out of 10 for difficulty level.");
 
-            Catan.Expansion = true;
+            Catan.expansion = true;
 
-            Console.WriteLine($"However, if you have an expansion for it, you can play with up to {Catan.MaybeMinPlayers()} or {Catan.MaybeMaxPlayers()} players.");
+            Console.WriteLine($"However, if you have an expansion for it, you can play with up to {Catan.maybeMinPlayers()} or {Catan.maybeMaxPlayers()} players.");
 
             VideoGame Tetris = new VideoGame("Tetris", true, true, 6);
 
-            Console.WriteLine($"{Tetris.Name} can be played {Tetris.Mode()} by {Tetris.Players()} player(s), and rates as {Tetris.Difficulty} out of 10 for difficulty.");
+            Console.WriteLine($"{Tetris.name} can be played {Tetris.mode()} by {Tetris.players()} player(s), and rates as {Tetris.difficulty} out of 10 for difficulty.");
 
-            Tetris.OnlineOrNah = false;
+            Tetris.onlineOrNah = false;
 
-            Console.WriteLine($"However, before the internet and online gaming came around, {Tetris.Name} could be played {Tetris.Mode()}");
+            Console.WriteLine($"However, before the internet and online gaming came around, {Tetris.name} could be played {Tetris.mode()}");
         }
     }
 }

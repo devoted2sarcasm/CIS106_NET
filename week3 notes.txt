@@ -1,0 +1,122 @@
+string[] products = new string[3];
+
+products[0] = "Apple";
+products[1] = "Banana";
+products[2] = "Orange";
+
+Console.WriteLine(products[0]);
+Console.WriteLine(products[1]);
+Console.WriteLine(products[2]);
+
+int[] myInts = new int[4];
+myInts[0] = 1;
+myInts[1] = 2;
+myInts[2] = 3;
+myInts[3] = 4;
+
+Console.WriteLine(myInts[0]);
+Console.WriteLine(myInts[1]);
+Console.WriteLine(myInts[2]);
+Console.WriteLine(myInts[3]);
+
+
+List<string> moreProducts = new List<string>();
+
+moreProducts.Add("Apple");
+moreProducts.Add("Banana");
+moreProducts.Add("Orange");
+
+Console.WriteLine(moreProducts[0]);
+Console.WriteLine(moreProducts[1]);
+Console.WriteLine(moreProducts[2]);
+
+Dictionary<int, string> users = new Dictionary<int, string>();
+users.Add(1000, "K Page");
+users.Add(1001, "Steve Martin");
+users.Add(1002, "Bob Menendez");
+
+string kpage = users[1000];
+Console.WriteLine(kpage);
+
+
+//control structures
+//select statement
+
+int number = 10;
+if (number > 0) {
+    Console.WriteLine($"{number} is positive");
+} else if (number < 0) {
+    Console.WriteLine($"{number} is negative");
+} else {
+    Console.WriteLine($"{number} is zero");
+}
+
+string product;
+int productId = 4;
+
+if (productId == 1) {
+    product = "Monitor";
+} else if (productId == 2) {
+    product = "Keyboard";
+} else if (productId == 3) {
+    product = "Mouse";
+} else {
+    product = "Product not found";
+}
+
+
+product = productId == 1? "Monitor" : productId == 2? "Keyboard" : productId == 3? "Mouse" : "Product not found";
+//ternary operator
+
+int roomNumber = 150;
+
+switch (roomNumber) {
+    case 100:
+        Console.WriteLine("Room 100");
+        break;
+    case 150:
+        Console.WriteLine("Room 150");
+        break;
+    case 200:
+        Console.WriteLine("Room 200");
+        break;
+    default:
+        Console.WriteLine("Room not found");
+        break;
+}
+
+
+
+//loops
+
+List<string> flowers = new List<string>{ "lily", "rose", "tulip", "daisy", "sunflower" };
+
+//for loop
+for (int i = 0; i < flowers.Count; i++)
+{
+    Console.WriteLine(flowers[i]);
+}
+
+
+//foreach loop
+foreach (string flower in flowers)
+{
+    Console.WriteLine(flower);
+}
+
+//while loop
+int j = 0;
+while (j < flowers.Count)
+{
+    Console.WriteLine(flowers[j]);
+    j++;
+}
+
+//do while loop
+int k = 0;
+do
+{
+    Console.WriteLine(flowers[k]);
+    k++;
+} while (k < flowers.Count);
+

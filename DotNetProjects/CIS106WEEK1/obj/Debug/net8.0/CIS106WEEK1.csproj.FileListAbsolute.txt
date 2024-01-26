@@ -7,3 +7,13 @@ c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.Assem
 c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.AssemblyInfo.cs
 c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.csproj.CoreCompileInputs.cache
 c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.sourcelink.json
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\bin\Debug\net8.0\CIS106WEEK1.exe
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\bin\Debug\net8.0\CIS106WEEK1.deps.json
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\bin\Debug\net8.0\CIS106WEEK1.runtimeconfig.json
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\bin\Debug\net8.0\CIS106WEEK1.dll
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\bin\Debug\net8.0\CIS106WEEK1.pdb
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.dll
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\refint\CIS106WEEK1.dll
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.pdb
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\CIS106WEEK1.genruntimeconfig.cache
+c:\NCMC\CIS106_NET\DotNetProjects\CIS106WEEK1\obj\Debug\net8.0\ref\CIS106WEEK1.dll
