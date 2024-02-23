@@ -1,0 +1,5 @@
+c:\NCMC\CIS106_NET\DotNetProjects\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\NCMC\CIS106_NET\DotNetProjects\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+c:\NCMC\CIS106_NET\DotNetProjects\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+c:\NCMC\CIS106_NET\DotNetProjects\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json

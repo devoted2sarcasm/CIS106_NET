@@ -1,0 +1,18 @@
+CIS106 DotNet
+Week 5 
+Design API
+
+Board Game DB API
+
+1. External Clients
+	-consumers
+		--person keeping track of their own board games
+			---collection
+			---games played
+			---ratings
+			
+2. Controller Layer
+	-board games list controller
+	-games played list controller
+	-game/{gameid}
+	

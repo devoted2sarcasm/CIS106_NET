@@ -1,0 +1,13 @@
+MS SQL Server Settings
+
+
+connection string:
+	Server=localhost;Database=master;Trusted_Connection=True;
+	
+VS Code commands add packages to projects
+
+dotnet add package dapper
+dotnet add package microsoft.data.sqlclient
+dotnet add package microsoft.entityframeworkcore 
+dotnet add package microsoft.entityframeworkcore.sqlserver
+
